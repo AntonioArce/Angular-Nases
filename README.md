@@ -1,6 +1,10 @@
-# Bases
+# Bases de Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+
+# Author
+- Antonio Arce Gudiño
+
 
 ## Development server
 
